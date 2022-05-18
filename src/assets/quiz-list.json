@@ -1,0 +1,26 @@
+[
+    {
+      "label": "Maths",
+      "name": "maths",
+      "description": "Questions about maths",
+      "fileName": "maths.json"
+    },
+    {
+      "label": "USA",
+      "name": "USA",
+      "description": "Questions about the ancient USA",
+      "fileName": "USA.json"
+    },
+    {
+    "label": "India",
+    "name": "India",
+    "description": "Questions about India",
+    "fileName": "India.json"
+    },
+    {
+    "label": "Spices",
+    "name": "spices",
+    "description": "Questions about spices",
+    "fileName": "spices.json"
+    }
+  ]

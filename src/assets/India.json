@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is the capital of India",
+    "choices": [
+      {
+        "value": "Hyderabad",
+        "correct": false
+      },
+      {
+        "value": "Delhi",
+        "correct": true
+      },
+      {
+        "value": "Bangalore",
+        "correct": false
+      },
+      {
+        "value": "Mumbai",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the capital of Telangana?",
+    "choices": [
+      {
+        "value": "Bangalore",
+        "correct": false
+      },
+      {
+        "value": "Chandigarh",
+        "correct": false
+      },
+      {
+        "value": "Hyderabad",
+        "correct": true
+      },
+      {
+        "value": "Delhi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the capital of Karnataka?",
+    "choices": [
+      {
+        "value": "Bangalore",
+        "correct": true
+      },
+      {
+        "value": "Mumbai",
+        "correct": false
+      },
+      {
+        "value": "Kolkata",
+        "correct": false
+      },
+      {
+        "value": "Mangalore",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the capital of Maharashtra?",
+    "choices": [
+      {
+        "value": "Patna",
+        "correct": false
+      },
+      {
+        "value": "Raipur",
+        "correct": false
+      },
+      {
+        "value": "Pune",
+        "correct": false
+      },
+      {
+        "value": "Mumbai",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is the capital of Gujarat?",
+    "choices": [
+      {
+        "value": "Gandhi Nagar",
+        "correct": true
+      },
+      {
+        "value": "Chandigarh",
+        "correct": false
+      },
+      {
+        "value": "Chennai",
+        "correct": false
+      },
+      {
+        "value": "Ranchi",
+        "correct": false
+      }
+    ]
+  }
+]

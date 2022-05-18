@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is the capital of the USA?",
+    "choices": [
+      {
+        "value": "Washington, D.C.",
+        "correct": true
+      },
+      {
+        "value": "New York",
+        "correct": false
+      },
+      {
+        "value": "Texas",
+        "correct": false
+      },
+      {
+        "value": "California",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What currency is used in the USA?",
+    "choices": [
+      {
+        "value": "Pound",
+        "correct": false
+      },
+      {
+        "value": "Euro",
+        "correct": false
+      },
+      {
+        "value": "Rupee",
+        "correct": false
+      },
+      {
+        "value": "Dollar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "How many stars are there on the US flag?",
+    "choices": [
+      {
+        "value": "50",
+        "correct": true
+      },
+      {
+        "value": "13",
+        "correct": false
+      },
+      {
+        "value": "51",
+        "correct": false
+      },
+      {
+        "value": "52",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the largest National Park in the USA?",
+    "choices": [
+      {
+        "value": "Yellowstone",
+        "correct": false
+      },
+      {
+        "value": "Wrangell-St. Elias",
+        "correct": true
+      },
+      {
+        "value": "The Everglades",
+        "correct": false
+      },
+      {
+        "value": "Yosemite",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "The Statue of Liberty was a gift from another country. Which one was it?",
+    "choices": [
+      {
+        "value": "India",
+        "correct": false
+      },
+      {
+        "value": "China",
+        "correct": false
+      },
+      {
+        "value": "France",
+        "correct": true
+      },
+      {
+        "value": "UK",
+        "correct": false
+      }
+    ]
+  }
+]
